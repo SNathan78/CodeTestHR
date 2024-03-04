@@ -170,6 +170,7 @@ class Solution
 {
     public static void Main(string[] args)
     {
+        //Main is altered from actual provided to make more user friendly and intuitive 
 
         TextWriter textWriter = new StreamWriter(@"E:\\Output\\Test.txt", true);
         var company = new Company();
