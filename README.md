@@ -1,0 +1,1 @@
+Its a code test challenge, originally created for Java but later modified for C# and completed. Please refer the requirement document for detailed spec and input values file for the sample input to test.
